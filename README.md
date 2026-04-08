@@ -1,4 +1,3 @@
-# .github
 
 ### Ankuram Labs
 Welcome to Ankuram Labs — a frontier research and innovation ecosystem where Deep Tech, Quantum & Photonic Computing, CyberSecurity, and Vedic Sciences converge to shape transformative solutions for the future.
