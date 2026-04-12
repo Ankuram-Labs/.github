@@ -9,11 +9,11 @@ We are a multidisciplinary team of researchers, engineers, entrepreneurs, and vi
 # What we do
 
 Our focus spans across diverse domains:
-### Quantum & Photonic Computing: Unlocking next-generation computational paradigms.
-### Artificial Intelligence & Deep Tech: Designing intelligent systems for real-world challenges.
-### CyberSecurity: Safeguarding digital ecosystems with advanced defense architectures.
-### Vedic Sciences: Integrating timeless wisdom with modern innovation for holistic progress.
-### Innovation & Incubation: Promoting and nurturing startups through mentorship, incubation programs, and collaborative R&D.
+#### Quantum & Photonic Computing: Unlocking next-generation computational paradigms.
+#### Artificial Intelligence & Deep Tech: Designing intelligent systems for real-world challenges.
+#### CyberSecurity: Safeguarding digital ecosystems with advanced defense architectures.
+#### Vedic Sciences: Integrating timeless wisdom with modern innovation for holistic progress.
+#### Innovation & Incubation: Promoting and nurturing startups through mentorship, incubation programs, and collaborative R&D.
 We actively collaborate with academic institutions, industry leaders, and innovators worldwide to accelerate breakthroughs and foster a vibrant ecosystem of entrepreneurship.
 
 # Our mission
