@@ -26,6 +26,9 @@ Our mission is to bridge tradition and technology while cultivating a thriving s
 
 # Get involved
 
-We welcome passionate minds — researchers, technologists, entrepreneurs, and cultural innovators — to join us. Whether through collaborations, incubation programs, or startup promotion initiatives, Ankuram Labs offers opportunities to contribute to projects that redefine the future.
+We welcome passionate minds — researchers, technologists, entrepreneurs, and cultural innovators — to join us. 
+Whether through collaborations, incubation programs, or startup promotion initiatives, Ankuram Labs offers opportunities to contribute to projects that redefine the future.
+
 Stay connected with us to explore partnerships, internships, and research initiatives. Together, we can shape a world where science, technology, innovation, and wisdom converge.
+
 Thank you for your interest in Ankuram Labs! We look forward to building the future with you.
