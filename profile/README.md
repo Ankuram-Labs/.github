@@ -4,7 +4,7 @@ Welcome to Ankuram Labs — a pioneering research and innovation ecosystem dedic
 
 # Who we are
 
-We are a multidisciplinary team of researchers, engineers, entrepreneurs, and visionaries working at the intersection of Deep Tech, Quantum & Photonic Computing, CyberSecurity, and Vedic Sciences. At Ankuram Labs, we embody the spirit of innovation and startup culture, nurturing ideas from inception to impact.
+We are a multidisciplinary team of researchers, engineers, entrepreneurs, and visionaries working at the intersection of Deep Tech, Modern Science, Vedic Sciences, and Philosophy. At Ankuram Labs, we embody the spirit of innovation and startup culture, nurturing ideas from inception to impact.
 
 # What we do
 
