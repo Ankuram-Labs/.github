@@ -19,10 +19,10 @@ We actively collaborate with academic institutions, industry leaders, and innova
 # Our mission
 
 Our mission is to bridge tradition and technology while cultivating a thriving startup and innovation culture. We aim to:
-Drive responsible research & development in deep technologies.
-Promote incubation and entrepreneurship, empowering startups to scale.
-Integrate Vedic insights into modern science for balanced innovation.
-Ensure that technological progress is ethical, transparent, and aligned with societal values.
+##### Drive responsible research & development in deep technologies.
+##### Promote incubation and entrepreneurship, empowering startups to scale.
+#### Integrate Vedic insights into modern science for balanced innovation.
+#### Ensure that technological progress is ethical, transparent, and aligned with societal values.
 
 # Get involved
 
